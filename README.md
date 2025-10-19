@@ -73,15 +73,10 @@ The dashboard provides an interactive, data-driven view of key business metrics 
 
 ---
 
-## 🖼️ Dashboard Preview
-*(Add your Power BI screenshot or link here)*  
-![Pizza Dashboard Screenshot](link-to-your-image)
-
----
 
 ## 🔗 Project Links
 - 📂 **GitHub Repository:** https://github.com/Vijaypatani47/Pizza-Sales-Analysis-Dashboard-Power-BI-  
-- 💼 **LinkedIn Post:** [Your LinkedIn Post Link Here]  
+- 💼 **LinkedIn Post:** https://www.linkedin.com/posts/vijaydataanalyst_pizza-sales-analysis-dashboard-activity-7385557155799674880-Nedb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvhbb4BzMq3j-o_AQ7Ut6ke3BwSdnZ2wzY)  
 
 ---
 

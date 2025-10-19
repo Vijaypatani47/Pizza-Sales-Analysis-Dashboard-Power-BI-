@@ -80,7 +80,7 @@ The dashboard provides an interactive, data-driven view of key business metrics 
 ---
 
 ## 🔗 Project Links
-- 📂 **GitHub Repository:** [Your Repo Link Here]  
+- 📂 **GitHub Repository:** https://github.com/Vijaypatani47/Pizza-Sales-Analysis-Dashboard-Power-BI-  
 - 💼 **LinkedIn Post:** [Your LinkedIn Post Link Here]  
 
 ---
